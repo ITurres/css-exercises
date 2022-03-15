@@ -17,9 +17,9 @@
   font-weight: bold;
 } 
 
-.button {
-  background-color: rgb(255, 255, 255);
-  color: rgb(0, 0, 0);
+.button .cancel {
+  background-color: white;
+  color: white;
   font-size: 20px;
 }
 
