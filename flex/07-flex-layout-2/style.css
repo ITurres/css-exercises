@@ -35,6 +35,12 @@ body {
   background: royalblue;
 }
 
+a {
+  font-size: 24px;
+  color: #fff;
+  text-decoration: none;
+}
+
 ul {
   list-style: none;
 }
