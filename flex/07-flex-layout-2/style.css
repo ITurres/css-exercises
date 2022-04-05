@@ -6,7 +6,6 @@ body {
   flex-direction: column;
   justify-content: space-between; 
 }
-}
 
 .header {
   display: flex;
@@ -21,6 +20,9 @@ body {
 }
 
 .footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   height: 72px;
   background: #eee;
   color: darkmagenta;
