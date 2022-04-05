@@ -35,6 +35,10 @@ body {
   background: royalblue;
 }
 
+ul {
+  list-style: none;
+}
+
 
 
 .card {
